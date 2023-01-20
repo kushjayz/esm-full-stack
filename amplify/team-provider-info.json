@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "esmfullstackb7de95d3": {}
+      },
+      "api": {
+        "esmfullstack": {}
       }
     }
   }
